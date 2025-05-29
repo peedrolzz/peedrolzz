@@ -15,10 +15,17 @@
 
 ---
 
-## 📚 Linguagens de Programação
+<h2 align="center">📚 Linguagens</h2>
 
-<div style="display: inline_block">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" alt="Python"/>
+<div align="center">
+  <style>
+    .linguagens img {
+      margin: 0 15px;
+    }
+  </style>
+  <div class="linguagens">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C"/>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" alt="Python"/>
+  </div>
 </div>
