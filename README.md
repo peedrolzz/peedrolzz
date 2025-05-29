@@ -23,18 +23,19 @@
 ---
 
 <div align="center">
-<h2>🌐 Redes Sociais</h2>
+  <h2>🌐 Redes Sociais</h2>
 
-<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="margin: 0 15px;" />
-</a>
-
-<a href="https://github.com/peedrolzz" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" style="margin: 0 15px;" />
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/peedrolzz" target="_blank">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="margin: 0 15px;" />
-</a>
+  <a href="https://github.com/peedrolzz" target="_blank">
+    <img height="40" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="https://www.instagram.com/peedrolzz" target="_blank">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
+  </a>
 </div>
