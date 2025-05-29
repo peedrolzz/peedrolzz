@@ -14,10 +14,8 @@
 </div>
 
 ---
-
-<h2 align="center">📚 Linguagens de Programação</h2>
-
 <div align="center">
+<h2>📚 Linguagens de Programação</h2>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C" style="margin: 0 15px;" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" alt="JavaScript" style="margin: 0 15px;" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" alt="Python" style="margin: 0 15px;" />
