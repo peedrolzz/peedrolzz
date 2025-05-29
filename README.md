@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F00FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=8F00FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Pedro;Student+at+UTFPR;Welcome!+%F0%9F%98%8A" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Pedro;Student+at+UTFPR;Welcome!+%F0%9F%98%8A" />
   </a>
 </p>
 
@@ -15,9 +15,9 @@
 
 <div align="center">
 <h2>📚 Linguagens de Programação</h2>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C" style="margin: 0 15px;" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" alt="JavaScript" style="margin: 0 15px;" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" alt="Python" style="margin: 0 15px;" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C"" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" alt="Python" /> 
 </div>
 
 ---
