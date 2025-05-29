@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-<h2>📚 Linguagens de Programação</h2>
+<h2>Programming Languages</h2>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C"" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" alt="Python" /> 
@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <h2>🌐 Redes Sociais</h2>
+  <h2>Social Media</h2>
 
   <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
