@@ -25,16 +25,16 @@
 <div align="center">
 <h2>🌐 Redes Sociais</h2>
 
-<a href="https://www.linkedin.com/in/pedro-lazzarin" target="_blank">
+<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="margin: 0 15px;" />
 </a>
 
 <a href="https://github.com/peedrolzz" target="_blank">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="margin: 0 15px;" />
+  <img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png" alt="GitHub" style="margin: 0 15px; background-color: #000; border-radius: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/peedrolzz" target="_blank">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" style="margin: 0 15px;" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="margin: 0 15px;" />
 </a>
 
 </div>
