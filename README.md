@@ -15,24 +15,6 @@
 
 ---
 
-## ⚒️ Outras Ferramentas
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-plain.svg" alt="Android Studio"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gcc/gcc-original.svg" alt="GCC"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg" alt="Unity"/>
-  <img height="40" src="https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V2/refs/heads/main/figures/logo.svg" alt="DeepSeek"/>
-  <img height="30" src="https://store-images.s-microsoft.com/image/apps.64314.14423064005243201.ff003f01-b27e-4e67-9aa6-33c671187261.c7133ceb-d688-4f51-b158-23818ec236ff?h=210" alt="Microsoft Store"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/quasar/quasar-plain.svg" alt="Quasar"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="VS Code"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/raspberrypi/raspberrypi-line.svg" alt="Raspberry Pi"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/putty/putty-original.svg" alt="Putty"/>
-  <img height="40" src="https://vuldb.com/_thm/vuldb.png" alt="VulDB"/>
-</div>
-
----
-
 ## 📚 Linguagens de Programação
 
 <div style="display: inline_block">
