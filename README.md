@@ -30,8 +30,8 @@
 </a>
 
 <a href="https://github.com/peedrolzz" target="_blank">
-  <img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png" alt="GitHub" style="margin: 0 15px; background-color: #000; border-radius: 5px;" />
-</a>
+    <img height="40" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" style="margin: 0 15px;" />
+  </a>
 
 <a href="https://www.instagram.com/peedrolzz" target="_blank">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="margin: 0 15px;" />
