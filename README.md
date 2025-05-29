@@ -25,7 +25,7 @@
 <div align="center">
   <h2>Social Media</h2>
 
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-lazzarin/" target="_blank">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
