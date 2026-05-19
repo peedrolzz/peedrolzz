@@ -6,14 +6,6 @@
   </a>
 </p>
 
----
-
-<div align="center">
-<h2>Programming Languages</h2>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C"" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" alt="Python" /> 
-</div>
 
 ---
 
