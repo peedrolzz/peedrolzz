@@ -6,7 +6,6 @@
 </p>
 
 <div align="center">
-  <h2>Social Media</h2>
   <a href="https://www.linkedin.com/in/pedro-lazzarin/" target="_blank">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
@@ -19,4 +18,3 @@
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
   </a>
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
